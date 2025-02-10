@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        double number = 2175.37;
+        double number = 2175.37; 
         
         number = number - 302.50;
         
